@@ -1,0 +1,5 @@
+{
+  "name": "个人考勤助手",
+  "description": "一个简单的个人考勤记录工具，支持日历打卡、状态区分及月度/周度统计。",
+  "requestFramePermissions": []
+}
