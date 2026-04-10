@@ -1,12 +1,20 @@
-<div align="center">
+<!-- <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+</div> -->
 
-# Run and deploy your AI Studio app
+# 私人考勤小助手
 
-This contains everything you need to run your app locally.
+**希望能为打卡解放沟通成本！**
 
-View your app in AI Studio: https://ai.studio/apps/ee7398db-f83f-467f-b676-67f022cb7a3c
+*当然，主要是因为我们公司没有打卡系统*
+
+## 打卡仅需两步>>
+1. 点击日期
+2. 选择到岗情况
+
+## 附加功能：
+**到岗情况统计**——管理者一目了然无需额外沟通
+
 
 ## Run Locally
 
